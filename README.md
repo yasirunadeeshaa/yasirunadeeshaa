@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasirunadeeshaa?tab=repositories](https://github.com/yasirunadeeshaa?tab=repositories)
 
-- 💬 Ask me about **Java, Python,**
+- 💬 Ask me about **Java, Python,react, spring boot**
 
 - 📫 How to reach me **a.y.nadeeshaaththanayaka@gamil.com**
 
