@@ -32,11 +32,11 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 
 - 🔭 I'm currently working on [Real-time Event Ticket Booking System](https://github.com/yasirunadeeshaa/REAL-TIME-TICKET-BOOKING-SYSTEM)
 
-- 🌱 I'm currently learning **Express, Node.js, and Cloud Technologies**
+- 🌱 I'm currently learning **Machine Learning**
 
 - 👯 I'm looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **Java, Python, React, Spring Boot**
+- 💬 Ask me about **Java, OOP, React, Spring Boot**
 
 - 📫 How to reach me: **a.y.nadeeshaaththanayaka@gmail.com**
 
