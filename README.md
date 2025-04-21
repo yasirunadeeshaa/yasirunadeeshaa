@@ -28,7 +28,8 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 <!-- About Me Section -->
 ## 💫 About Me
 
-<img align="right" height="240" width="390" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="coding animation" />
+<!--<img align="right" height="240" width="390" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="coding animation" />-->
+<img align="right" height="240" width="390" src="aboutme1.png" alt="coding animation" />
 
 - 🔭 I'm currently working on [Real-time Event Ticket Booking System](https://github.com/yasirunadeeshaa/REAL-TIME-TICKET-BOOKING-SYSTEM)
 
