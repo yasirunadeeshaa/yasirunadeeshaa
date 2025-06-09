@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm A. Yasiru Nadeesha Aththanayaka . </h1>
-<h3 align="center">A passionate full stack developer from Sri Lanaka</h3>
+<h3 align="center">A passionate DevOps Engineer from Sri Lanaka</h3>
 
 <!-- Profile Views Counter with Badges -->
 <p align="center">
