@@ -43,7 +43,7 @@ Software engineer with a focus on full-stack development, specializing in Java, 
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/yasirunadeeshaa?tab=repositories)
 
-- 🌐 Visit my portfolio: [Coming Soon](#)
+- 🌐 Visit my portfolio: [YasiruNadeesha](https://yasirunadeeshaaththanayaka.netlify.app/)
 
 - ⚡ Fun fact: **The first programming language I learned was Java**
 <br><br>
